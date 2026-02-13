@@ -104,9 +104,9 @@ Effective collaborator across product, data science, frontend, and infrastructur
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-s-howard&show_icons=true&theme=dark&hide_border=true&format=svg&cache_seconds=86400&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-s-howard&show_icons=true&theme=dark&hide_border=true&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-s-howard&layout=compact&theme=dark&hide_border=true&format=svg&cache_seconds=86400&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-s-howard&layout=compact&theme=dark&hide_border=true&v=1)
 
 
 ---
